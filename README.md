@@ -11,6 +11,8 @@ See the License for the specific language governing permissions and limitations 
 -->
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+**Note: This repo is set as read-only - development is now happening at https://github.com/bcgov/pahwq**
+
 # pahwq
 
 <!-- badges: start -->
